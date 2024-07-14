@@ -8,3 +8,8 @@ some fully connected neural networks I developed or experimented on for differen
   - [Twos Complement](./M-P%20Neuron/Twos%20Complement/)
   - [Sine Regression](./Optimising%20Neural%20Network/Sine%20Regression/)
   - [MNIST Classifier](./Optimising%20Neural%20Network/MNIST%20Classifier/)
+
+## Contributors
+
+- [Matin Bazrafshan](https://github.com/FabulousMatin)
+- [Shahriar Attar](https://github.com/Shahriar-0)
